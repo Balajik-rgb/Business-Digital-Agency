@@ -154,7 +154,7 @@ This project is fully responsive and optimized for:
 
 🔗 If you have any suggestions or feedback, feel free to check my GitHub repository and share your thoughts.
 
-💻 GitHub Link: [ ]
+💻 GitHub Link: [ https://github.com/Balajik-rgb/Business-Digital-Agency]
 
 ---
 
